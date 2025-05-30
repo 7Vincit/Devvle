@@ -17,61 +17,19 @@ Devvle is where developers share short-form posts, code snippets, bugs, builds, 
 
 ## ✨ Features
 
-- 📝 Share short-form technical posts
-- 💻 Code snippet sharing with syntax highlighting
-- 🐛 Bug reporting and solution sharing
-- 🏗️ Build showcase
-- 🔍 Advanced search for technical content
-- 👥 Developer-focused community
-- 📱 Responsive design for all devices
+✍️ Post with Markdown and syntax-highlighted code blocks
 
-## 🛠️ Tech Stack
+🧵 Share dev thoughts, rants, and ship logs
 
-- Frontend:
-  - [List your frontend technologies]
-  - [e.g., React, Next.js, etc.]
+🔍 Discover trending tags like #NextJS, #AI, #DebugLife
 
-- Backend:
-  - [List your backend technologies]
-  - [e.g., Node.js, Express, etc.]
+👤 Create a dev-centric profile with your stack, repos & pinned posts
 
-- Database:
-  - [Your database technology]
-  - [e.g., MongoDB, PostgreSQL, etc.]
+🛠 Embed GitHub, Replit, Figma, or Stack Overflow
 
-## 🚦 Getting Started
+⚡ React, fork, or thread your way into the conversation
 
-### Prerequisites
-
-```bash
-# List prerequisites here
-node >= 16.0.0
-npm >= 8.0.0
-```
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/SevenCans/Devvle.git
-```
-
-2. Install dependencies
-```bash
-cd Devvle
-npm install
-```
-
-3. Set up environment variables
-```bash
-cp .env.example .env
-# Edit .env with your configuration
-```
-
-4. Start the development server
-```bash
-npm run dev
-```
+Made for builders. Built for velocity. Welcome to Devvle.
 
 ## 📖 Documentation
 
@@ -97,14 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Community
 
-- [Discord Server](link-to-discord)
-- [Twitter](link-to-twitter)
-- [Blog](link-to-blog)
-
-## 🙏 Acknowledgments
-
-- List any libraries, tools, or resources you'd like to acknowledge
-- Thank contributors and supporters
+- [Twitter](https://x.com/SevenCans_)
 
 ## 📊 Project Status
 
