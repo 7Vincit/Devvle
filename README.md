@@ -13,7 +13,7 @@ Where developers share their journey, one post at a time.
 
 ## 🚀 About Devvle
 
-Devvle is a specialized social platform where developers share short-form posts, code snippets, bugs, builds, and breakthroughs — all in a feed designed specifically for technical minds. Think of it as your daily dose of developer insights, challenges, and victories.
+Devvle is where developers share short-form posts, code snippets, bugs, builds, and breakthroughs — in a feed designed specifically for technical minds.
 
 ## ✨ Features
 
