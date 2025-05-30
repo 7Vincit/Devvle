@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Devvle Logo](public/sreenshots/logo.png)
+![Devvle Logo](/public/screenshots/logo.png)
 
 Where developers share their journey, one post at a time.
 
